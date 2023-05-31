@@ -35,3 +35,10 @@ end
 return
 continue
 and break.
+
+It can even do experssions and function as a calculator!
+  for example
+  `2+2 output 4`
+  `2*2 output 4`
+  `5^2 output 25`
+  `(23+27)/ (divided by) 2 output 25`
