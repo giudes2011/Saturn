@@ -1,4 +1,4 @@
-SATURN VERSION 1.03
+SATURN GUIDE
 
 What's Saturn?
 Saturn is a programming language written in Python!
